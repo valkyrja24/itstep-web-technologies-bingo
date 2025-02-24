@@ -15,6 +15,13 @@
 7. [ ] Реалізувати логіку: якщо вмістом клітинки є текст "*" - то вона завжди обрана (її не можна вимкнути)
 8. [ ] Реалізувати "фавіконку": коли бінго в процесі - жовтий квадрат, коли бінго завершено - зелений квадрат, коли бінго має помилки - червоний квадрат
 
+Матеріали до серії вимог:
+  * [offsetWidth](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetWidth) та аналогічно `offsetHeight`
+      * додаткове питання: чим відрізняється `offsetWidth` від `clientWidth` від `scrollWidth`?
+  * [resize](https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event)
+  * [Location.hash](https://developer.mozilla.org/en-US/docs/Web/API/Location/hash)
+  * [Favicon](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel#icon)
+
 
 # Серія вимог 1 (17 лютого 2025 року)
 
