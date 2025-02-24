@@ -86,3 +86,13 @@ td.selected {
   font-size: 20px;
   margin-bottom: 10px;
 }
+
+textarea {
+  font-size: 20px;
+  width: 90%;
+  height: 90%;
+}
+
+.error {
+  background-color: lightcoral;
+}
